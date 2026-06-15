@@ -1,0 +1,9 @@
+ TÜİK Enflasyon Verileri
+Kaynak: https://veriportali.tuik.gov.tr
+Kullanılan yıllar:
+2020: %14.6
+2021: %36.1
+2022: %64.3
+2023: %64.8
+2024: %44.4
+2025: %35.0
